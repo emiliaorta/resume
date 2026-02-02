@@ -5,7 +5,7 @@
 **Geophysics undergraduate** interested in geophysics, field methods, and data analysis.
 
 ## Contact
-- Email: your.email@example.com
+- Email: emilia_orta@mines.edu
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/)
 - GitHub: [GitHub Profile](https://github.com/)
 
