@@ -1,9 +1,6 @@
 # Emilia Orta — Resume
 
 ![Headshot](images/headshot.png)
-# Emilia Orta — Resume
-
-![Headshot](images/headshot.png)
 
 **Geophysics undergraduate** interested in geophysics, field methods, and data analysis.
 
